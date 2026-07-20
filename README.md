@@ -89,7 +89,43 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-_WakaTime statistics will appear here after `WAKATIME_API_KEY` is configured._
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852.90%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                129 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
+🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 20/07/2026 07:54:37 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
