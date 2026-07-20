@@ -95,7 +95,11 @@ _WakaTime statistics will appear here after `WAKATIME_API_KEY` is configured._
 ## ⏱️ All-time coding activity
 
 <!--START_SECTION:waka-simple-->
-_The all-time language breakdown will appear here after WakaTime is configured._
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-simple-->
 
 <p align="center">
