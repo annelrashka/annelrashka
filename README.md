@@ -59,7 +59,7 @@ currently_focused_on:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-_This section will update automatically after the GitHub activity workflow runs._
+1. 🎉 Merged PR [#5](https://github.com/AFINION/afinion-be/pull/5) in [AFINION/afinion-be](https://github.com/AFINION/afinion-be)
 <!--END_SECTION:activity-->
 
 ## Selected work
