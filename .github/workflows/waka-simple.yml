@@ -1,0 +1,27 @@
+name: waka-simple
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update all-time WakaTime statistics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update all-time language breakdown
+        uses: guilyx/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          SECTION_NAME: "waka-simple"
+          COMMIT_MESSAGE: "chore: update all-time coding activity"
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          SHOW_TITLE: true
