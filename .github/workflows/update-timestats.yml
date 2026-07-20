@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-readme:
     name: Update README with development metrics
+    environment: env
     runs-on: ubuntu-latest
     steps:
       - name: Update detailed WakaTime statistics
