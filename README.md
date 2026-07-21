@@ -89,15 +89,13 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852.90%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-858.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,10 +106,10 @@ currently_focused_on:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌆 Daytime                129 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
-🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌆 Daytime                130 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
+🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 
@@ -121,11 +119,15 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
+Markdown                 2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 
- Last Updated on 20/07/2026 07:54:37 UTC
+ Last Updated on 21/07/2026 03:41:58 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
