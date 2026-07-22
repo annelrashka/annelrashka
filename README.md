@@ -89,13 +89,15 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-858.38%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2028%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-859.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 10 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,10 +108,10 @@ currently_focused_on:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Daytime                130 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
-🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌞 Morning                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
 ```
 
 
@@ -119,15 +121,15 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
-Markdown                 2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TypeScript               4 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.71 % 
+Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Other                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Java                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 
- Last Updated on 21/07/2026 03:41:58 UTC
+ Last Updated on 22/07/2026 03:42:13 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
