@@ -89,15 +89,13 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2031%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-859.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,10 +106,10 @@ currently_focused_on:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
-🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   30.84 % 
+🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 ```
 
 
@@ -121,15 +119,15 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.11 % 
-Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Java                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+TypeScript               3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.84 % 
+Java                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 
 
- Last Updated on 23/07/2026 03:41:32 UTC
+ Last Updated on 24/07/2026 03:40:18 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
