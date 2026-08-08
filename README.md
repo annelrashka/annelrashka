@@ -89,13 +89,17 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-867.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2058%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-869.17%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2026
+> 🏆 79 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,8 +107,54 @@ currently_focused_on:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/08/2026 03:14:51 UTC
+```text
+🌞 Morning                102 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+🌆 Daytime                141 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+🌃 Evening                135 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌙 Night                  113 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+JSON                     17 mins             █████████░░░░░░░░░░░░░░░░   34.10 % 
+TypeScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Git Config               10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Other                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 mins (71.48%)
+
+✍️ 1,309 lines written by AI, 1 lines written by hand (99.92% AI-written)
+
+🔤 11,522,767 Input Tokens, 53,253 Output Tokens
+
+💵 $56.52 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 9 AI Prompts
+
+GPT                      1,319 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 18,903 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 02:20:20 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
