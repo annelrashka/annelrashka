@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2026
+> 🏆 111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                124 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌆 Daytime                149 commits         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-🌃 Evening                144 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌙 Night                  123 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+🌞 Morning                126 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+🌆 Daytime                149 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌃 Evening                144 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌙 Night                  123 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
 ```
 
 
@@ -123,38 +123,37 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   36.30 % 
-TypeScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Caddyfile                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Other                    25 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Java                     25 mins             ████████░░░░░░░░░░░░░░░░░   31.24 % 
+TypeScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (85.89%)
+⏱ AI Coding Time: 1 hr 18 mins (98.19%)
 
-✍️ 1,491 lines written by AI, 6 lines written by hand (99.6% AI-written)
+✍️ 473 lines written by AI, 23 lines written by hand (95.36% AI-written)
 
-🔤 1,716,657 Input Tokens, 130,274 Output Tokens
+🔤 868,111 Input Tokens, 67,626 Output Tokens
 
-💵 $21.83 Estimated AI Cost This Week
+💵 $12.26 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 61 AI Prompts
+🧠 7 AI Sessions, 30 AI Prompts
 
-GPT                      1,508 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      559 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 9,539 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+🤖 AI-Driven — 95.36% of written lines came from AI
+📚 Verbose Prompter — average 12,255 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 01:51:48 UTC
+ Last Updated on 20/08/2026 01:50:15 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
