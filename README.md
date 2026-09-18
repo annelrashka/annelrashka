@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 158 Contributions in the Year 2026
+> 🏆 160 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                161 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-🌆 Daytime                160 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌃 Evening                150 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+🌞 Morning                162 commits         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌆 Daytime                161 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌃 Evening                150 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
 ```
 
 
@@ -123,38 +123,35 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Bash                     33 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
-JavaScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-SCSS                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+JavaScript               15 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
+Markdown                 15 mins             █████████░░░░░░░░░░░░░░░░   37.02 % 
+SCSS                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 37 mins (100.0%)
+⏱ AI Coding Time: 42 mins (100.0%)
 
-✍️ 205 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 15 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 906,109 Input Tokens, 57,696 Output Tokens
+🔤 349,550 Input Tokens, 8,820 Output Tokens
 
-💵 $19.25 Estimated AI Cost This Week
+💵 $6.14 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 31 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-GPT                      221 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      31 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,516 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 16,773 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 04:48:44 UTC
+ Last Updated on 18/09/2026 04:38:40 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
