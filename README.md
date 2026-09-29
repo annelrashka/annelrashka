@@ -93,13 +93,13 @@ currently_focused_on:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-906.63%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-914.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2026
+> 🏆 171 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                171 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-🌆 Daytime                162 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌃 Evening                150 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+🌆 Daytime                163 commits         ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 ```
 
 
@@ -123,17 +123,34 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    24 mins             ███████████████████████░░   92.55 % 
+TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 26 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 237,417 Input Tokens, 22,784 Output Tokens
+
+💵 $7.10 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 11 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 10,121 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 05:18:46 UTC
+ Last Updated on 29/09/2026 05:39:49 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
