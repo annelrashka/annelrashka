@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2026
+> 🏆 177 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-🌆 Daytime                168 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 ```
 
 
@@ -123,18 +123,19 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ███████████████░░░░░░░░░░   61.94 % 
-Other                    24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               1 hr 5 mins         ██████████████░░░░░░░░░░░   56.63 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (87.97%)
+⏱ AI Coding Time: 1 hr 32 mins (80.43%)
 
-✍️ 156 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 156 lines written by AI, 147 lines written by hand (51.49% AI-written)
 
 🔤 1,246,292 Input Tokens, 87,970 Output Tokens
 
@@ -146,14 +147,14 @@ GPT                      157 lines           ███████████�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+⚖️ Balanced with AI — 51.49% of written lines came from AI
 📚 Verbose Prompter — average 24,788 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 05:47:17 UTC
+ Last Updated on 05/10/2026 05:32:18 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
