@@ -89,7 +89,7 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%205%20mins-blue?style=flat)
 
@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2026
+> 🏆 178 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+🌆 Daytime                170 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
 
@@ -123,38 +123,37 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ██████████████░░░░░░░░░░░   56.63 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               1 hr 3 mins         █████████████████░░░░░░░░   68.98 % 
+Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (80.43%)
+⏱ AI Coding Time: 1 hr 8 mins (74.57%)
 
 ✍️ 156 lines written by AI, 147 lines written by hand (51.49% AI-written)
 
-🔤 1,246,292 Input Tokens, 87,970 Output Tokens
+🔤 1,008,875 Input Tokens, 65,186 Output Tokens
 
-💵 $42.43 Estimated AI Cost This Week
+💵 $35.33 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 84 AI Prompts
+🧠 6 AI Sessions, 74 AI Prompts
 
 GPT                      157 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 51.49% of written lines came from AI
-📚 Verbose Prompter — average 24,788 characters per prompt
+📚 Verbose Prompter — average 26,639 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
 🔍 Hands-On Reviewer — 52.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 05:32:18 UTC
+ Last Updated on 06/10/2026 06:15:31 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
