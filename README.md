@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 181 Contributions in the Year 2026
+> 🏆 182 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌆 Daytime                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌆 Daytime                174 commits         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 
@@ -123,37 +123,34 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   26 mins             ███████████████░░░░░░░░░░   60.51 % 
-TypeScript               13 mins             ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Python                   26 mins             ██████████████████████░░░   87.72 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (39.81%)
+⏱ AI Coding Time: 3 mins (12.75%)
 
-✍️ 31 lines written by AI, 168 lines written by hand (15.58% AI-written)
+✍️ 0 lines written by AI, 168 lines written by hand (0.0% AI-written)
 
-🔤 118,204 Input Tokens, 19,624 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $6.93 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 15 AI Prompts
-
-GPT                      31 lines            █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.58% of written lines came from AI
-📚 Verbose Prompter — average 7,200 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 88.26% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 255 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 06:03:46 UTC
+ Last Updated on 10/10/2026 05:46:30 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
