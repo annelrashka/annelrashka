@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2026
+> 🏆 185 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-🌆 Daytime                176 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+🌞 Morning                173 commits         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+🌆 Daytime                177 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+🌃 Evening                151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 ```
 
 
@@ -123,33 +123,36 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   18 mins             ██████████████████████░░░   89.80 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   1 hr 1 min          ███████████████░░░░░░░░░░   59.85 % 
+Text                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (18.91%)
+⏱ AI Coding Time: 1 hr 1 min (59.96%)
 
-✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,645 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 96,719 Input Tokens, 384 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.30 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 978 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 05:51:09 UTC
+ Last Updated on 13/10/2026 06:44:52 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
