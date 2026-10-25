@@ -89,17 +89,17 @@ currently_focused_on:
 ## 📊 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.51%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-933.92%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2026
+> 🏆 197 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                183 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-🌆 Daytime                178 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌃 Evening                153 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+🌞 Morning                185 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌆 Daytime                181 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+🌃 Evening                154 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 ```
 
 
@@ -123,39 +123,39 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               59 mins             █████████████████░░░░░░░░   67.43 % 
-Python                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Image (png)              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               1 hr 56 mins        ██████████████████░░░░░░░   73.00 % 
+Image (png)              18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (89.7%)
+⏱ AI Coding Time: 2 hrs 30 mins (94.32%)
 
-✍️ 8,227 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,109 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,181,171 Input Tokens, 214,352 Output Tokens
+🔤 2,799,854 Input Tokens, 337,490 Output Tokens
 
-💵 $5.76 Estimated AI Cost This Week
+💵 $11.23 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 4 AI Sessions, 21 AI Prompts
 
-Gemini                   6,634 lines         ████████████████████░░░░░   79.69 % 
-Opus                     1,691 lines         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Gemini                   7,028 lines         ███████████████████░░░░░░   76.14 % 
+Opus                     2,202 lines         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 178 characters per prompt
+📝 Concise Prompter — average 137 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 04:31:05 UTC
+ Last Updated on 25/10/2026 04:35:37 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
