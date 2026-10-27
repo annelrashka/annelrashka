@@ -99,7 +99,7 @@ currently_focused_on:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2026
+> 🏆 199 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,10 +110,10 @@ currently_focused_on:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                186 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌆 Daytime                181 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌃 Evening                156 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌞 Morning                187 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌆 Daytime                181 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                156 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+🌙 Night                  124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 ```
 
 
@@ -123,39 +123,38 @@ currently_focused_on:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ██████████████████░░░░░░░   73.00 % 
-Image (png)              18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               1 hr 56 mins        ████████████████████░░░░░   79.47 % 
+Image (png)              18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 30 mins (94.32%)
+⏱ AI Coding Time: 2 hrs 24 mins (98.78%)
 
 ✍️ 9,109 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,799,854 Input Tokens, 337,490 Output Tokens
+🔤 2,769,121 Input Tokens, 337,412 Output Tokens
 
-💵 $11.23 Estimated AI Cost This Week
+💵 $11.14 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
 Gemini                   7,028 lines         ███████████████████░░░░░░   76.14 % 
 Opus                     2,202 lines         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 159 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 04:40:34 UTC
+ Last Updated on 27/10/2026 04:58:34 UTC
 <!--END_SECTION:waka-->
 
 ## ⏱️ All-time coding activity
